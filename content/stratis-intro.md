@@ -15,7 +15,7 @@ storage functionality that works within the existing Linux storage
 management stack.  To achieve this, Stratis prioritizes a straightforward
 command-line experience, a rich API, and a fully automated approach to storage
 management. It builds upon elements of the existing storage stack as much as
-possible.  Specifically, Stratis uses device-mapper, LUKS, XFS, and Clevis. 
+possible.  Specifically, Stratis uses device-mapper, LUKS, XFS, and Clevis.
 Stratis may also incorporate additional technologies in the future.
 
 <!-- more -->
